@@ -1,5 +1,5 @@
 alert('Bom dia!');
-let limite = 1;
+let limite = 100;
 let secret_number = parseInt(Math.random() * limite) + 1; // Número aleatório entre 1 e 5
 let guess;
 let guess_count = 1;
